@@ -1,0 +1,20 @@
+        body {
+            background: -webkit-linear-gradient(to right, #FFEDBC, #f01f49);
+            background: linear-gradient(to right, #FFEDBC, #f01f49);
+        }
+        
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+        
+        .card-body {
+            display: flex;
+            justify-content: space-between;
+            flex-flow: column;
+        }
+        
+        .pdf {
+            width: 95%;
+            margin-left: 2.5%;
+        }
